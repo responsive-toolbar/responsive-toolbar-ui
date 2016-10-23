@@ -25,7 +25,7 @@
     "label.reload": "Reload this page",
     "label.fullscreen": "Enter full screen",
     "label.close": "Quit toolbar",
-    "label.version": "Version"
+    "label.version": "Version",
   },
   "de-DE": {
     "language": "Deutsch (German)",
@@ -53,6 +53,6 @@
     "label.reload": "Neu laden",
     "label.fullscreen": "Fullscreen",
     "label.close": "Toolbar schließen",
-    "label.version": "Version"
-  }
+    "label.version": "Version",
+  },
 }
